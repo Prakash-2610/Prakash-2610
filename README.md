@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm EM Sree Prakash</h1>
-<h3 align="center">I'm a dedicated AI/ML engineer hailing from India, equipped with expertise in data analysis as well. Passion drives me in the realms of artificial intelligence and machine learning, where I strive to innovate and create solutions that make a tangible difference.</h3>
+<h3 align="center">I’m a passionate AI/ML engineer and data scientist from India, with strong expertise in building machine learning models, developing intelligent systems, and conducting advanced data analysis. I thrive on creating innovative, impact-driven solutions at the intersection of artificial intelligence, data science, and real-world applications, always aiming to turn complex problems into actionable insights.</h3>
 
-- 🔭 I’m currently working on **Gen AI projects**
+- 🔭 I’m currently studying at **Queen Mary, University of London** pursing Master in science in Artificial Intelligence
 
-- 🌱 I’m currently learning **LangChain, BERT Models**
+- 🌱 I’m currently learning **Computer vision models, robotics**
 
-- 👯 I’m looking to collaborate on **LLM's**
+- 👯 I’m looking to collaborate on **Computer Vision models**
 
 - 📫 How to reach me **26prakash10@gmail.com**
 
