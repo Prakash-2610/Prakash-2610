@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EM Sree Prakash</h1>
 <h3 align="center">I’m a passionate AI/ML engineer and data scientist from India, with strong expertise in building machine learning models, developing intelligent systems, and conducting advanced data analysis. I thrive on creating innovative, impact-driven solutions at the intersection of artificial intelligence, data science, and real-world applications, always aiming to turn complex problems into actionable insights.</h3>
 
-- 🔭 I’m currently studying at **Queen Mary, University of London** pursing Master in science in Artificial Intelligence
+- 🔭 I’m currently studying at **Queen Mary, University of London** pursing Master of science in Artificial Intelligence
 
 - 🌱 I’m currently learning **Computer vision models, robotics**
 
